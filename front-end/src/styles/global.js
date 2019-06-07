@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
     -moz-box-sizing: border-box;
   }
 
-  html, body {
+  html, body, #root {
     background: #e6e9ef;
     height: 100%;
     text-rendering: optimizeLegibility !important;
